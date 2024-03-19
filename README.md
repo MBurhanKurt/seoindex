@@ -1,0 +1,2 @@
+# seoindex
+indexing of links
